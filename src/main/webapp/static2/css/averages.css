@@ -1,0 +1,75 @@
+.fixed-table-container {
+	margin-top: -15px !important;
+}
+
+.valores span {
+	font-size: 12px !important;
+	font-weight: bold;
+	color: #191838;
+	margin-left: 4px;
+}
+
+.valores2 span {
+	font-size: 12px !important;
+	font-weight: bold;
+	color: #191838;
+	margin-left: 4px;
+}
+
+.valores3 span {
+	font-size: 12px !important;
+	font-weight: bold;
+	color: #191838;
+	margin-left: 4px;
+}
+
+.average input {
+	font-size: 11px !important;
+	height: 9px;
+	text-align: right;
+	margin-bottom: 3px;
+	width: 70%;
+}
+
+.valores {
+	margin-left: 34%;
+	margin-top: -60px;
+	border: 1px solid #CCCCCC;
+	width: 15%;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.valores2 {
+	margin-left: 50%;
+	margin-top: -90px;
+	width: 15%;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.valores3 {
+	margin-left: 66%;
+	margin-top: -112px;
+	margin-bottom: 40px;
+	width: 15%;
+	border: 1px solid #CCCCCC;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.average {
+	margin-left: 5px;
+}
+
+.alllist {
+	margin-top: 12px !important;
+}
+
+.pesquisa-boleta {
+	margin-top: 25px !important;
+}
+
+.pos-botoes {
+	float: right;
+	margin-top: -80px;
+	margin-right: 8px;
+}
